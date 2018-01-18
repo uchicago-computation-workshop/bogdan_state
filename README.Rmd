@@ -10,14 +10,14 @@ output:
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(stringr)
 
-date <- "1/25/2018"
+date <- "2/22/2018"
 vendor <- "Pizza Capri"
 title <- "Paper Title TBD"
 file_title <- "Paper Title"
 short_title_n = 2
-speaker <- "James Evans"
-department <- "Director, Knowledge Lab; Professor, Sociology, University of Chicago; Senior Fellow, Computation Institute; Faculty Director, Masters Program in Computational Social Sciences"
-university <- "University of Chicago"
+speaker <- "Laura Nelson"
+department <- "Assistant Professor of Sociology, College of Social Sciences and Humanities"
+university <- "Northeastern University"
 github_home <- "https://github.com/uchicago-computation-workshop"
 
 
@@ -122,7 +122,7 @@ short_title_clean <- str_replace_all(short_title, punct, "")
 
 <p class=footertext2>
 
-**BIO** TBD
+**Laura K. Nelson** is a sociologist who uses computational methods to study social movements, culture, gender, institutions, and the history of feminism. Using computer-assisted texts analysis and network analysis, her dissertation examined the political logics underlying women’s movements in New York City and Chicago from 1865-1975. She is interested in further developing automated text analysis methods and best-practices for sociology and digital humanities. She received her Ph.D. in sociology from the University of California, Berkeley. In 2014-2016 she was a postdoc in Management and Organizations in the Kellogg School of Management at Northwestern University, and is on leave this year as a fellow for Digital Humanities @ Berkeley and the Berkeley Institute for Data Science at the University of California, Berkeley.
 </p>
 
 
