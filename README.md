@@ -29,7 +29,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href="https://github.com/uchicago-computation-workshop/laura_nelson/blob/master/2018__nelson__paper_title.pdf" >Cycles of conflict, a century of continuity: Using computational methods to measure why some ideas succeed and others fail</a>
+  <a href="https://github.com/uchicago-computation-workshop/laura_nelson/blob/master/2018__nelson__century_of_continuity.pdf" >Cycles of conflict, a century of continuity: Using computational methods to measure why some ideas succeed and others fail</a>
 </h2>
 
 <br>

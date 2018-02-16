@@ -13,8 +13,8 @@ library(stringr)
 date <- "2/22/2018"
 vendor <- "Pizza Capri"
 title <- "Cycles of conflict, a century of continuity: Using computational methods to measure why some ideas succeed and others fail"
-file_title <- "Paper Title"
-short_title_n = 2
+file_title <- "Century of Continuity"
+short_title_n = 3
 speaker <- "Laura Nelson"
 department <- "Assistant Professor of Sociology, College of Social Sciences and Humanities"
 university <- "Northeastern University"
