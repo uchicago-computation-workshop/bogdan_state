@@ -10,14 +10,14 @@ output:
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(stringr)
 
-date <- "4/5/2018"
+date <- "5/24/2018"
 vendor <- "TBD"
 title <- "TBD"
 file_title <- "TBD"
 short_title_n = 3
-speaker <- "Chris Bail"
-department <- "Douglas and Ellen Lowey Associate Professor of Sociology and Public Policy"
-university <- "Duke University"
+speaker <- "Bogdan State"
+department <- "Data Scientist"
+university <- "Facebook"
 github_home <- "https://github.com/uchicago-computation-workshop"
 
 
