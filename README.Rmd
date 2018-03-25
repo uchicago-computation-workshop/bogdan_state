@@ -10,14 +10,14 @@ output:
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(stringr)
 
-date <- "2/22/2018"
-vendor <- "Pizza Capri"
-title <- "Cycles of conflict, a century of continuity: Using computational methods to measure why some ideas succeed and others fail"
-file_title <- "Century of Continuity"
+date <- "4/5/2018"
+vendor <- "TBD"
+title <- "TBD"
+file_title <- "TBD"
 short_title_n = 3
-speaker <- "Laura Nelson"
-department <- "Assistant Professor of Sociology, College of Social Sciences and Humanities"
-university <- "Northeastern University"
+speaker <- "Chris Bail"
+department <- "Douglas and Ellen Lowey Associate Professor of Sociology and Public Policy"
+university <- "Duke University"
 github_home <- "https://github.com/uchicago-computation-workshop"
 
 
@@ -105,7 +105,7 @@ short_title_clean <- str_replace_all(short_title, punct, "")
 
 <p class=footertext2>
 
-**Abstract:** Why are some ideas and organizations influential, and others insignificant? As movements such as #BlackLivesMatter and #MeToo dominate the public scene, this question is receiving renewed attention from both social scientists and the general public. In this talk I take a comparative historical perspective on this question, identifying influential and peripheral ideas and organizations within the women’s movements in Chicago and New York City during both the first and second feminist waves, from 1860 to 1975. Established accounts maintain that the predominant ideas of second wave feminism came out of the civil rights and New Left movements. Finding more similarities than differences between the waves, I instead show that second wave ideas were rooted in place-based political logics established during the first wave. In both waves, influential organizations in Chicago sought change by addressing the immediate needs of women, while influential organizations in New York City sought to change individual consciousness. Using a novel combination of network statistics to measure social structure and computational and qualitative text analysis techniques to measure ideas, I find that collective beliefs become influential when they are aligned with these persistent place-based political logics, or, secondly, when they match local social structures. These findings demonstrate how computational methods can provide empirical access to concepts that have historically been difficult to directly measure. New sources of rich, digitized data, I claim, when combined with methodological advances in analyzing unstructured data, enables scholars to measure social complexity and cultural beliefs in new – and increasingly reproducible – ways.
+**Abstract:** TBD
 </p>
 
 <br>
@@ -122,7 +122,7 @@ short_title_clean <- str_replace_all(short_title, punct, "")
 
 <p class=footertext2>
 
-**Laura K. Nelson** is a sociologist who uses computational methods to study social movements, culture, gender, institutions, and the history of feminism. Using computer-assisted texts analysis and network analysis, her dissertation examined the political logics underlying women’s movements in New York City and Chicago from 1865-1975. She is interested in further developing automated text analysis methods and best-practices for sociology and digital humanities. She received her Ph.D. in sociology from the University of California, Berkeley. In 2014-2016 she was a postdoc in Management and Organizations in the Kellogg School of Management at Northwestern University, and is on leave this year as a fellow for Digital Humanities @ Berkeley and the Berkeley Institute for Data Science at the University of California, Berkeley.
+**`r speaker`** TBD
 </p>
 
 
