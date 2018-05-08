@@ -29,7 +29,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href="https://github.com/uchicago-computation-workshop/bogdan_state/blob/master/2018__state__tbd_na_na.pdf" >TBD</a>
+  <a href="https://github.com/uchicago-computation-workshop/bogdan_state/blob/master/2018__state__embedding_relational_data.pdf" >Embedding Relational Data Using PyTorch</a>
 </h2>
 
 <br>
@@ -37,7 +37,9 @@ output:
 
 <p class=footertext2>
 
-**Abstract:** TBD
+**Summary:** Very large graphs are ubiquitous on the Internet, and graph data is often essential to solving applied computational social science problems. One exceedingly common such problem is that of supervised classification (or regression) on the nodes of edges of a graph. Picking a scalable modeling strategy is a key practical challenge to solving such graph-based supervised machine learning problems. Broadly speaking, modeling approaches can be divided into attempts to model the graph structure explicitly (e.g. through Loopy Belief Propagation) or those approaches that use dimensionality reduction (e.g. Non-Negative Matrix Factorization or Latent Dirichlet Allocation, etc.) to extract node-level features. A more recent development comes from the field of neural network research, where several new techniques have been used to derive graph embeddings. In particular, the use of automated differentiation has opened up new scalable ways of thinking about graphs, which also promise to revolutionize how we do research on social networks. In this tutorial I will focus on learning graph embeddings using PyTorch, a Python-based framework for stochastic computation. Because of the elegance of PyTorch's semantics (which include straightforward integration with GPUs), graph embeddings generalize readily to weighted and signed graphs, as well as to hypergraphs. While packages like PyTorch present us with a step change in our ability to process graph data, they are still limited by computational resources: I will end my discussion with an overview of the challenges involved in processing graph data at scale.
+
+
 </p>
 
 <br>
@@ -54,7 +56,7 @@ output:
 
 <p class=footertext2>
 
-**Bogdan State** TBD
+**Bogdan State** is a computational sociologist and a member of Facebook's Core Data Science team. He received an M.A. and PhD in sociology from Stanford University, where he is also (very slowly) pursuing a M.S. in Computer Science. He is interested in using digital data to decipher the basic mechanisms of human social interaction. His experience includes over four years working as a data scientist in Silicon Valley. At Facebook, Bogdan's contributions have ranged from developing large-scale business intelligence systems to improving the performance of ranking models. He gets excited easily when left near very large social datasets.
 </p>
 
 
