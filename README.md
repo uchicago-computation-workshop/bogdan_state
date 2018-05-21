@@ -43,13 +43,7 @@ output:
 
 <br>
 
-<p class=footertext2>
 
-**NOTE:** This week's workshop includes a tutorial. The slides for this tutorial are linked and both the tutorial materials and requirements can be found on Github. Simply, ```git clone https://github.com/uchicago-computation-workshop/bogdan_state``` to get started.
-
-</p>
-
-<br>
 
 <h4 class=pfblock-header3> Thursday, 5/24/2018 </h4>
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
@@ -57,7 +51,7 @@ output:
 
 <br>
 
-<p class=pfblock-header3>A light lunch will be provided by TBD.</p>
+<p class=pfblock-header3>A light lunch will be provided by Cedars Mediterranean Kitchen.</p>
 
 <br><br>
 
@@ -66,7 +60,15 @@ output:
 **Bogdan State** is a computational sociologist and a member of Facebook's Core Data Science team. He received an M.A. and PhD in sociology from Stanford University, where he is also (very slowly) pursuing a M.S. in Computer Science. He is interested in using digital data to decipher the basic mechanisms of human social interaction. His experience includes over four years working as a data scientist in Silicon Valley. At Facebook, Bogdan's contributions have ranged from developing large-scale business intelligence systems to improving the performance of ranking models. He gets excited easily when left near very large social datasets.
 </p>
 
+<br>
 
+<p class=footertext2>
+
+**NOTE:** This week's workshop includes a tutorial. The slides for this tutorial are linked above, and both the tutorial materials and requirements can be found on Github. Simply, ```git clone https://github.com/uchicago-computation-workshop/bogdan_state``` to get started.
+
+</p>
+
+<br>
 
 
 <br><br>
