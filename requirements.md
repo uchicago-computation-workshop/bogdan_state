@@ -1,7 +1,7 @@
 # Requirements to Run the Uchicago Tutorial
 
 
-- a working Python 3 environment with a PyTorch 0.4 install (and Jupyter, of course). Details at: [https://pytorch.org/](https://pytorch.org/)
+* a working Python 3 environment with a PyTorch 0.4 install (and Jupyter, of course). Details at: [https://pytorch.org/](https://pytorch.org/)
 - preferably, a computer with a GPU. Google Cloud has great options, as does AWS. Alternatively a University of Chicago GPU such as Acropolis from Social Science Computing Services or the servers at the Research Computing Center.
 - optionally, a working R environment, and an R kernel set up for Jupyter.
 
